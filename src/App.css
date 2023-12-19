@@ -1,0 +1,28 @@
+/* 
+.recipe-title {
+    font-size: 0.25em; }*/
+
+.rec {
+    height: fit-content;
+    cursor: pointer;
+}
+
+.rec-desc {
+    background-color: rgb(235, 235, 235);
+    padding: 0.25em 0.5em;
+    
+}
+
+.rec-desc-main {
+    margin: 1em 0;
+}
+
+.rec-desc ul {
+    list-style: none;
+}
+
+.desc-i {
+    margin: 0.5em 0;
+    padding: 0.5em;
+    background-color: white;
+}
